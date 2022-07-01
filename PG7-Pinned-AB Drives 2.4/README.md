@@ -22,4 +22,4 @@ I used the specific components listed below, so shop and use at your own risk!
 | Igus Chainflex® CF113-007-D | Yes | [DFH](https://deepfriedhero.in/products/igus-chainflex%C2%AE-cf113-007-d) |
 | MDPC-X Classic Small Cable Sleeving | Yes | [DFH](https://deepfriedhero.in/products/mdpc-x-classic-small-cable-sleeving) | [Titan Rig](https://www.titanrig.com/diy-modding/cable-sleeving-supplies/sleeving/mdpc-x-cable-sleeving.html) |
 
-![Discord Banner 2](https://discordapp.com/api/guilds/460117602945990666/widget.png?style=banner2)
+![Discord Banner 1](https://discordapp.com/api/guilds/[460117602945990666]/widget.png?style=banner2) ![Discord Banner 2](https://discordapp.com/api/guilds/[825469421346226226]/widget.png?style=banner2)
