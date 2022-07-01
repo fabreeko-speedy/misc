@@ -5,6 +5,10 @@
 My twist on Hartk's [Pinned A/B Drives](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
 and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker). I used the specific components listed below, so shop and use at your own risk.
 
+| Back of EBB36 V1.1 CAN Board | 4-Pin IP67 Panel Mount Connector | Umbilical Connected to A-Drive |
+| - | - | - |
+| ![CAN](Images/CAN.jpg) | ![Connector](Images/connector.jpg) | ![Connected](Images/Connected.jpg) |
+
 Avation Connector - 4 Pin - [Amazon](https://www.amzn.com/B087MZYG37)
 
 BTT EBB36 V1.1 CAN Board- [DFH](https://deepfriedhero.in/products/ebb36?variant=42869488910558) - [Amazon](https://www.amzn.com/B0B1MHHNDX)
@@ -15,4 +19,4 @@ Lightweight Aluminium Pins Kit - [DFH](https://deepfriedhero.in/products/ultra-l
 
 Igus Chainflex® CF113-007-D - [DFH](https://deepfriedhero.in/products/igus-chainflex%C2%AE-cf113-007-d)
 
-MDPC-X Classic Small Cable Sleeving - [DFH](https://deepfriedhero.in/products/mdpc-x-classic-small-cable-sleeving)
+MDPC-X Classic Small Cable Sleeving - [DFH](https://deepfriedhero.in/products/mdpc-x-classic-small-cable-sleeving) - [Titan Rig](https://www.titanrig.com/diy-modding/cable-sleeving-supplies/sleeving/mdpc-x-cable-sleeving.html)
