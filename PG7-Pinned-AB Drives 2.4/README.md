@@ -9,7 +9,7 @@ and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker).
 | - | - | - |
 | ![Connector](Images/Connector.jpg) | ![CAN](Images/CAN.jpg) | ![Connected](Images/Connected.jpg) |
 
-##Bill Of Materials
+# Bill Of Materials
 
 I used the specific components listed below, so shop and use at your own risk!
 
