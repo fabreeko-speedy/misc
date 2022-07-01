@@ -7,7 +7,7 @@ and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker). I used the 
 
 | Back of EBB36 V1.1 CAN Board | 4-Pin IP67 Panel Mount Connector | Umbilical Connected to A-Drive |
 | - | - | - |
-| ![CAN](Images/CAN.jpg) | ![Connector](Images/connector.jpg) | ![Connected](Images/Connected.jpg) |
+| ![CAN](Images/CAN.jpg) | ![Connector](Images/Connector.jpg) | ![Connected](Images/Connected.jpg) |
 
 Avation Connector - 4 Pin - [Amazon](https://www.amzn.com/B087MZYG37)
 
