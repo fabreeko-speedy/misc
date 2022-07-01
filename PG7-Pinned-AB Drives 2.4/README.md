@@ -1,6 +1,6 @@
 # Voron V2.4 Pinned A/B Drive w/ PG7 Thread Umbilical
 
-![Image of Pinned-Umbilical-A Drive](Images//A_Drive.png)
+![Image of Pinned-Umbilical-A Drive](https://github.com/speedyv0/misc/blob/main/PG7-Pinned-AB%20Drives%202.4/Images/A_Drive.PNG)
 
 My twist on Hartk's [Pinned A/B Drives](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
 and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker). I used the specific components listed below, so shop and use at your own risk.
