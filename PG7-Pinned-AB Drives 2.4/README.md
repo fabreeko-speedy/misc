@@ -3,7 +3,7 @@
 ![Image of Pinned-Umbilical-A Drive](https://github.com/speedyv0/misc/blob/main/PG7-Pinned-AB%20Drives%202.4/Images/A_Drive.PNG)
 
 My twist on Hartk's [Pinned A/B Drives](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
-and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker). 
+and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker) for the Voron V2.4R2
 
 | 4-Pin IP67 Panel Mount Connector | Back of EBB36 V1.1 CAN Board | Umbilical Connected to A-Drive |
 | - | - | - |
@@ -11,7 +11,8 @@ and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker).
 
 # Bill Of Materials
 
-I used the specific components listed below, so shop and use at your own risk!
+I used the specific components listed below, so shop and use at your own risk! 
+YOU NEED TO SAND DOWN THE ALUMINIUM PINS TO MAKE THEM FIT - this is done to clean up the top of the A/B Drives and keep the pins captive. 
 
 | Part | Qty | Link | Alternate |
 | - | - | - | - |
