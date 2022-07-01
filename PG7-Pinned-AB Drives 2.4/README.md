@@ -17,7 +17,7 @@ I used the specific components listed below, so shop and use at your own risk!
 | - | - | - | - |
 | Avation Connector - 4 Pin | 1 | [Amazon](https://www.amzn.com/B087MZYG37) |
 | BTT EBB36 V1.1 CAN Board | 1 | [DFH](https://deepfriedhero.in/products/ebb36?variant=42869488910558) | [Amazon](https://www.amzn.com/B0B1MHHNDX) |
-| BTT U2C V1.1 CAN to USB Interface | 1 | [DFH](https://deepfriedhero.in/products/ebb36?variant=42869488910558) | [Amazon](https://www.amzn.com/B0B1X47319) |
+| BTT U2C V1.1 CAN to USB Interface | 1 | [DFH](https://deepfriedhero.in/products/u2c-1-1-can-interface-board-v1-1?variant=42967054942430) | [Amazon](https://www.amzn.com/B0B1X47319) |
 | Lightweight Aluminium Pins Kit | 1 | [DFH](https://deepfriedhero.in/products/ultra-lightweight-aluminum-pins-kit?_pos=2&_sid=00af9452e&_ss=r) |
 | Igus Chainflex® CF113-007-D | Yes | [DFH](https://deepfriedhero.in/products/igus-chainflex%C2%AE-cf113-007-d) |
 | MDPC-X Classic Small Cable Sleeving | Yes | [DFH](https://deepfriedhero.in/products/mdpc-x-classic-small-cable-sleeving) | [Titan Rig](https://www.titanrig.com/diy-modding/cable-sleeving-supplies/sleeving/mdpc-x-cable-sleeving.html) |
