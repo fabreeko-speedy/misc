@@ -5,9 +5,9 @@
 My twist on Hartk's [Pinned A/B Drives](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
 and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker). I used the specific components listed below, so shop and use at your own risk.
 
-| Back of EBB36 V1.1 CAN Board | 4-Pin IP67 Panel Mount Connector | Umbilical Connected to A-Drive |
+| 4-Pin IP67 Panel Mount Connector | Back of EBB36 V1.1 CAN Board | Umbilical Connected to A-Drive |
 | - | - | - |
-| ![CAN](Images/CAN.jpg) | ![Connector](Images/Connector.jpg) | ![Connected](Images/Connected.jpg) |
+| ![Connector](Images/Connector.jpg) | ![CAN](Images/CAN.jpg) | ![Connected](Images/Connected.jpg) |
 
 Avation Connector - 4 Pin - [Amazon](https://www.amzn.com/B087MZYG37)
 
