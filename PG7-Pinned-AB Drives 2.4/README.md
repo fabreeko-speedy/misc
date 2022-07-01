@@ -12,7 +12,8 @@ and Kayosmaker's [Umbilical A Drive](https://github.com/KayosMaker) for the Voro
 # Bill Of Materials
 
 I used the specific components listed below, so shop and use at your own risk! 
-YOU NEED TO SAND DOWN THE ALUMINIUM PINS TO MAKE THEM FIT - this is done to clean up the top of the A/B Drives and keep the pins captive. 
+
+**YOU NEED TO SAND DOWN THE ALUMINIUM PINS TO MAKE THEM FIT** - This is done to clean up the top of the A/B Drives and keep the pins captive. Matching XY-Joints in STL directory.
 
 | Part | Qty | Link | Alternate |
 | - | - | - | - |
